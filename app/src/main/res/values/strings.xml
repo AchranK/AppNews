@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppNews</string>
+    <string name="no_news">No news found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    !-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_section_value</string>
+
+    !-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_section_label">section</string>
+    <string name="settings_order_by_section_value" translatable="false">section</string>
+
+    <string name="settings_section">Section</string>
+   <string name="settings_section_key" translatable="false">section</string>
+<string name="settings_section_default" translatable="false">section</string>
+
+
+</resources>
+
